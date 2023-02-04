@@ -7,5 +7,13 @@
 
 * [qb-target](https://github.com/qbcore-framework/qb-target)
 * [qb-menu](https://github.com/qbcore-framework/qb-menu)
+* [progressbar](https://github.com/qbcore-framework/progressbar)
+
+# Instructions
+
+* Add this to **qb-core/shared/items.lua**
+```
+["emsbag"]   	= {["name"] = "emsbag", 		["label"] = "Paramedic Bag", 	["weight"] = 150, 		["type"] = "item", 		["image"] = "emsbag.png", 			["unique"] = false,   	["useable"] = true,    ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = ""},
+```
 
 
