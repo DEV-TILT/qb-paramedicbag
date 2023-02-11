@@ -3,6 +3,8 @@
 * [Support](https://discord.gg/NsgmZaTPa7)
 * [Preview](https://streamable.com/xdjrdh)
 
+* Key to drop the bag: E
+
 # Require
 
 * [qb-target](https://github.com/qbcore-framework/qb-target)
